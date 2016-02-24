@@ -1,0 +1,28 @@
+name: schatz
+favicon: null
+layout_spectrum: 0.9776903234887868
+typography_spectrum: 0.16047040582634509
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.38423723983578384
+  lightness: 0.10817799717187881
+  saturation: 0.6894271557684988
+  rhythmicContrast: 0.8494575198274106
+purpose: []
